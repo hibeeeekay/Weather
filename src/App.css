@@ -68,6 +68,7 @@ main{
 
 .weather-box {
   text-align: center;
+  width: auto;
 }
 
 .weather-box .temp {
